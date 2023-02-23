@@ -24,7 +24,7 @@ function App() {
 
       <Card word={word} definition={description} />
       <img
-        src="./src/images/infinite_jest.webp"
+        src="./infinite_jest.webp"
         alt="A white cloud against a red sky."
         className="image-jest"
       />
