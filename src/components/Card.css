@@ -1,9 +1,10 @@
 .card-word {
-  width: 18rem;
+  width: 20rem;
   height: 20rem;
+  max-width: 80dvw;
+  max-height: 40dvh;
   padding: 2rem;
   margin: auto;
-  margin-top: 12rem;
 
   display: flex;
   flex-direction: column;

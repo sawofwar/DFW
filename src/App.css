@@ -12,6 +12,14 @@
   position: relative;
 }
 
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100dvh;
+}
+
 .image-jest {
   position: absolute;
   top: 0;
@@ -20,4 +28,12 @@
   height: 100vh;
   object-fit: cover;
   z-index: -1;
+}
+
+h1 {
+  color: #fee;
+  font-size: 1.75rem;
+  width: 80vw;
+  text-align: center;
+  margin-top: 2rem;
 }
