@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Random rare word from Infinite Jest by DFW</h1>
+      <h1>Random rare words from Infinite Jest by DFW</h1>
 
       <Card word={word} definition={description} />
       <img
