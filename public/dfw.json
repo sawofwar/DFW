@@ -1,0 +1,866 @@
+[
+    {
+        "word": "Matriculate:",
+        "description": "Formal process of entering a university"
+    },
+    {
+        "word": "Mottle:",
+        "description": "Mark with spots or smears of colour."
+    },
+    {
+        "word": "Circumflex:",
+        "description": "this symbol ^"
+    },
+    {
+        "word": "Ellipse:",
+        "description": "Oval shape"
+    },
+    {
+        "word": "Sheaf:",
+        "description": "Bundle of objects of a single kind (esp. papers)"
+    },
+    {
+        "word": "Lapidary:",
+        "description": "Speaking in a concise and effective way, suitable to be carved into stone."
+    },
+    {
+        "word": "Stasis:",
+        "description": "A period or state of inactivity."
+    },
+    {
+        "word": "Impropriety:",
+        "description": "A failure to show honesty or modesty."
+    },
+    {
+        "word": "Sotto:",
+        "description": "Intentionally lowering the volume of ones voice for effect."
+    },
+    {
+        "word": "Nepotism:",
+        "description": "Favour given to relatives and friends."
+    },
+    {
+        "word": "Sallow:",
+        "description": "Of an unhealthy yellow or brown colour"
+    },
+    {
+        "word": "Hirsute:",
+        "description": "Hairy"
+    },
+    {
+        "word": "Countenance:",
+        "description": "Accept as possible; admit as so."
+    },
+    {
+        "word": "Caustic:",
+        "description": "Sarcastic ina scathing manner."
+    },
+    {
+        "word": "Martial:",
+        "description": "Warlike"
+    },
+    {
+        "word": "Supine:",
+        "description": "Lying face upwards."
+    },
+    {
+        "word": "Mollify:",
+        "description": "Appease the anger or anxiety of someone."
+    },
+    {
+        "word": "Gallant:",
+        "description": "Brave; Heroic"
+    },
+    {
+        "word": "Procure:",
+        "description": "Obtain with special care."
+    },
+    {
+        "word": "Rapacious:",
+        "description": "Excessively greedy."
+    },
+    {
+        "word": "Debauch:",
+        "description": "Destroy the moral purity of; corrupt."
+    },
+    {
+        "word": "Oblique:",
+        "description": "Slanting"
+    },
+    {
+        "word": "Fidelity:",
+        "description": "Faithful to a person or cause."
+    },
+    {
+        "word": "Apprise:",
+        "description": "Inform or tell someone"
+    },
+    {
+        "word": "Pejorative:",
+        "description": "Expressing contempt or disapproval."
+    },
+    {
+        "word": "Locution:",
+        "description": "A particular and distinct style of speaking (a phrase)"
+    },
+    {
+        "word": "Intonation:",
+        "description": "Rise and fall of the voice."
+    },
+    {
+        "word": "Sumptuous:",
+        "description": "Splendid and expensive looking."
+    },
+    {
+        "word": "Detritus:",
+        "description": "Waste or debris of any kind."
+    },
+    {
+        "word": "Penitent:",
+        "description": "Repentent"
+    },
+    {
+        "word": "Nubile:",
+        "description": "A girl sexually mature"
+    },
+    {
+        "word": "Coltish:",
+        "description": "Energetic but awkward in one\u0432\u0402\u2122s movements or behaviour."
+    },
+    {
+        "word": "Petulant:",
+        "description": "Childishly sulky or ill-tempered."
+    },
+    {
+        "word": "Fantod:",
+        "description": "A state of uneasiness."
+    },
+    {
+        "word": "Benighted:",
+        "description": "In a state of intellectual or moral ignorance."
+    },
+    {
+        "word": "Commensurate:",
+        "description": "Equal in measure or extent."
+    },
+    {
+        "word": "Simian:",
+        "description": "Ape-Like"
+    },
+    {
+        "word": "Pulmonary:",
+        "description": "Relating to the lungs"
+    },
+    {
+        "word": "Kismet:",
+        "description": "Destiny or fate"
+    },
+    {
+        "word": "Loquacious:",
+        "description": "Tending to talk a lot."
+    },
+    {
+        "word": "Acumen:",
+        "description": "The ability to make good judgements and quick decisions."
+    },
+    {
+        "word": "Dipsomania:",
+        "description": "Alcoholism"
+    },
+    {
+        "word": "Tee-Totaling:",
+        "description": "Abstinance from booze"
+    },
+    {
+        "word": "Pathos:",
+        "description": "A quality that evokes sadness."
+    },
+    {
+        "word": "Elegiar:",
+        "description": "Having a mournful quality."
+    },
+    {
+        "word": "Convolved:",
+        "description": "Roll or coil together."
+    },
+    {
+        "word": "Deliquesce:",
+        "description": "Become liquid,typically during decomposition."
+    },
+    {
+        "word": "Plangent:",
+        "description": "Loud, reverberating and often melancholy."
+    },
+    {
+        "word": "Dentale:",
+        "description": "Having a toothlike serrated edge."
+    },
+    {
+        "word": "Rictus:",
+        "description": "A fixed grimace or grin."
+    },
+    {
+        "word": "Punitive:",
+        "description": "Intended as punishment."
+    },
+    {
+        "word": "Virile:",
+        "description": "Strength and energy"
+    },
+    {
+        "word": "Privation:",
+        "description": "A state or ultimate deprivity."
+    },
+    {
+        "word": "Screaming",
+        "description": "Meemies: Excessive nervousness."
+    },
+    {
+        "word": "Axiomatic:",
+        "description": "Self evident and unquestionable."
+    },
+    {
+        "word": "Perfidious:",
+        "description": "Deceitful and untrustworthy."
+    },
+    {
+        "word": "Duplicitous:",
+        "description": "Deceitful and untrustworthy."
+    },
+    {
+        "word": "Fallow:",
+        "description": "Uncultivated land."
+    },
+    {
+        "word": "Denude:",
+        "description": "Make bare."
+    },
+    {
+        "word": "Fulvous:",
+        "description": "Reddish yellow."
+    },
+    {
+        "word": "Tawny:",
+        "description": "The colour of thick piss. (yellow brown)"
+    },
+    {
+        "word": "Verdant:",
+        "description": "Green with grass and vegetation."
+    },
+    {
+        "word": "Seminal:",
+        "description": "Strongly influencing later development"
+    },
+    {
+        "word": "Placid:",
+        "description": "Not easily upset or excited."
+    },
+    {
+        "word": "Attrition:",
+        "description": "Slowly reducing in strength or effectiveness by beating down, physically or mentally."
+    },
+    {
+        "word": "Atavistic:",
+        "description": "Reverting to something ancient."
+    },
+    {
+        "word": "Acutance:",
+        "description": "The sharp quality or a photo or painting."
+    },
+    {
+        "word": "Bequest:",
+        "description": "A legacy."
+    },
+    {
+        "word": "Torpid:",
+        "description": "Lethargic, slow and languid, tired and slothlike."
+    },
+    {
+        "word": "Derisive:",
+        "description": "Like divisive but aimed at someone personal."
+    },
+    {
+        "word": "Sangfroid:",
+        "description": "Speaking in a calm cool manner."
+    },
+    {
+        "word": "Gestalt:",
+        "description": "A whole that is greater than the sum of its divided parts."
+    },
+    {
+        "word": "Gibbous:",
+        "description": "A near fully exposed moon, but not quite a full circle."
+    },
+    {
+        "word": "Solipsism:",
+        "description": "The view/theory that the only thing that we can know for certain, is that we, ourselves, exist."
+    },
+    {
+        "word": "Palsy:",
+        "description": "Uncontrollable shaking."
+    },
+    {
+        "word": "Incredulity:",
+        "description": "Unable to believe something."
+    },
+    {
+        "word": "Insolent:",
+        "description": "Rude and arrogant lack of respect."
+    },
+    {
+        "word": "Reticulate:",
+        "description": "A web like series of lines that divides a surface or area, like the canals and tributaries that reticulate the flat planes."
+    },
+    {
+        "word": "Nautical:",
+        "description": "Referring to something relevant to sailing, sailors, or ocean culture."
+    },
+    {
+        "word": "Sumptuous:",
+        "description": "Excessive and garish, and attention seeking."
+    },
+    {
+        "word": "Ostentatious:",
+        "description": "Pretentious and vulgar behaviour designed to attract attention."
+    },
+    {
+        "word": "Verve:",
+        "description": "Vigor and excitement."
+    },
+    {
+        "word": "Retrograde:",
+        "description": "To spin in the opposite direction that it normally does. To move backwards."
+    },
+    {
+        "word": "Undulate:",
+        "description": "Move with a smooth wavelike motion."
+    },
+    {
+        "word": "Cavalier:",
+        "description": "Casually apathetic; indifferent."
+    },
+    {
+        "word": "Erumpent:",
+        "description": "Bursting forth or through a surface."
+    },
+    {
+        "word": "Suborned:",
+        "description": "Bribed to commit an illegal crime."
+    },
+    {
+        "word": "Impetuous:",
+        "description": "Done rashly without thought or care."
+    },
+    {
+        "word": "Denuded:",
+        "description": "Make bare. (de-NUDE-ed)"
+    },
+    {
+        "word": "Laconic:",
+        "description": "To use few words."
+    },
+    {
+        "word": "Malodorous:",
+        "description": "Foul smelling. (mal-ODOROUS)"
+    },
+    {
+        "word": "Diaphoretic:",
+        "description": "Inducing perspiration."
+    },
+    {
+        "word": "Connote:",
+        "description": "Imply or suggest."
+    },
+    {
+        "word": "Insipid:",
+        "description": "Lacking flavour. Boring."
+    },
+    {
+        "word": "Germane:",
+        "description": "Relevant to the subject at hand."
+    },
+    {
+        "word": "Doff:",
+        "description": "Remove an article of clothing."
+    },
+    {
+        "word": "Nix:",
+        "description": "Put an end to."
+    },
+    {
+        "word": "Monomaniacal:",
+        "description": "Obsessed with one specific topic."
+    },
+    {
+        "word": "Perfunctory:",
+        "description": "Carried out easily, effortlessly. \u0432\u0402\u045aThe kids a natural!\u0432\u0402\u045c"
+    },
+    {
+        "word": "Pernicious:",
+        "description": "Having a harmful effect in a gradual way."
+    },
+    {
+        "word": "Mirth:",
+        "description": "Amusement and laughter."
+    },
+    {
+        "word": "Elision:",
+        "description": "Omitting a sound when speaking, or a passage when writing."
+    },
+    {
+        "word": "Propitiate:",
+        "description": "Win or regain the favour of."
+    },
+    {
+        "word": "Postulate:",
+        "description": "To assume or suggest (truth)."
+    },
+    {
+        "word": "Tryst:",
+        "description": "A private romantic rendezvous between lovers."
+    },
+    {
+        "word": "Reticulate:",
+        "description": "A web pattern. To divide a surface in the way that canals and tributaries divide a flat plane."
+    },
+    {
+        "word": "Hypertonic:",
+        "description": "Hyper. With energy and increased pace, pressure or volume."
+    },
+    {
+        "word": "Morose:",
+        "description": "Sullen and ill-tempered."
+    },
+    {
+        "word": "Sardonic:",
+        "description": "Grimly mocking/cynical"
+    },
+    {
+        "word": "Extol:",
+        "description": "Praise"
+    },
+    {
+        "word": "Imbibe:",
+        "description": "Drink Alcohol"
+    },
+    {
+        "word": "Assiduous:",
+        "description": "Showing great care and perseverance"
+    },
+    {
+        "word": "Sedulous:",
+        "description": "Showing great care and perseverance."
+    },
+    {
+        "word": "Prim:",
+        "description": "Librarian like. Stuffy and formal."
+    },
+    {
+        "word": "Interloper:",
+        "description": "Someone who enters something where they are unwanted."
+    },
+    {
+        "word": "Usurp:",
+        "description": "Obtain illegally."
+    },
+    {
+        "word": "Cadge:",
+        "description": "Ask for or obtain."
+    },
+    {
+        "word": "Comely:",
+        "description": "Pleasant to look at."
+    },
+    {
+        "word": "Portents:",
+        "description": "An intuition that something bad was about to happen."
+    },
+    {
+        "word": "Dysphoric:",
+        "description": "Opposite of euphoric."
+    },
+    {
+        "word": "Incontenence:",
+        "description": "Lack of control."
+    },
+    {
+        "word": "Hapless:",
+        "description": "Unfortunate"
+    },
+    {
+        "word": "Avail:",
+        "description": "Use/ take advantage of"
+    },
+    {
+        "word": "Perenial:",
+        "description": "Eternal, infinite and indeffinite."
+    },
+    {
+        "word": "Convolved:",
+        "description": "Roll or wind together"
+    },
+    {
+        "word": "Lascivious:",
+        "description": "Overt sexual advance or indication e.g. winking."
+    },
+    {
+        "word": "Lissome:",
+        "description": "Thin, supple, graceful."
+    },
+    {
+        "word": "Furtively:",
+        "description": "Secretly."
+    },
+    {
+        "word": "Haughty:",
+        "description": "Arrogantly superior."
+    },
+    {
+        "word": "Untenable:",
+        "description": "Unable to be defended from objection or attack."
+    },
+    {
+        "word": "Attenuate:",
+        "description": "Reduce the force/value of."
+    },
+    {
+        "word": "Deference:",
+        "description": "Humble submission and respect."
+    },
+    {
+        "word": "Puerile:",
+        "description": "Childishly silly and trivial"
+    },
+    {
+        "word": "Picayune:",
+        "description": "Petty and worthless"
+    },
+    {
+        "word": "Staid:",
+        "description": "Boring and un-adventuresome"
+    },
+    {
+        "word": "Invective:",
+        "description": "Harsh/abusive language \u0432\u0402\u045aeg. you dirty rotten no good slenderizing son of a bitch!\u0432\u0402\u045c"
+    },
+    {
+        "word": "Verity:",
+        "description": "A true principle of belief."
+    },
+    {
+        "word": "Vitriol:",
+        "description": "Harsh and bitter criticism."
+    },
+    {
+        "word": "Fiat:",
+        "description": "A decree"
+    },
+    {
+        "word": "Idiosyncrasy:",
+        "description": "A strange way of behaving. (e.g. he had to be the first one in the car)"
+    },
+    {
+        "word": "Hubris:",
+        "description": "Excessive pride and self-confidence."
+    },
+    {
+        "word": "Distended:",
+        "description": "Bloated from the inside due to pressure."
+    },
+    {
+        "word": "Prolix:",
+        "description": "Of a speech or writing that uses unnecessary amount of words."
+    },
+    {
+        "word": "Abscond:",
+        "description": "Leave hurriedly and secretly."
+    },
+    {
+        "word": "Sordid:",
+        "description": "Morally dirty."
+    },
+    {
+        "word": "Prescient:",
+        "description": "Having or showing knowledge of events before they take place."
+    },
+    {
+        "word": "Redolent:",
+        "description": "Strongly reminiscent or suggestive of something."
+    },
+    {
+        "word": "Stolid:",
+        "description": "Calm and emotionless."
+    },
+    {
+        "word": "Simpatico:",
+        "description": "On the same page/wavelength."
+    },
+    {
+        "word": "Inexorable:",
+        "description": "Impossible to stop or prevent."
+    },
+    {
+        "word": "Halcyon:",
+        "description": "Of a time past that was ideal and blissful and peaceful."
+    },
+    {
+        "word": "Amanuensis:",
+        "description": "Assistant to a master artist"
+    },
+    {
+        "word": "Aphasiac:",
+        "description": "Loss of the ability to properly produce thoughts, or language expressing those thoughts."
+    },
+    {
+        "word": "Mollify:",
+        "description": "Appease the anger of someone."
+    },
+    {
+        "word": "Incipient:",
+        "description": "In an initial state; beginning to happen or develop."
+    },
+    {
+        "word": "Capricious:",
+        "description": "Subject to sudden and unpredictable changes of mood."
+    },
+    {
+        "word": "Miasma:",
+        "description": "Unpleasant odour."
+    },
+    {
+        "word": "Litany:",
+        "description": "A tedious and repetitive series."
+    },
+    {
+        "word": "Revenant:",
+        "description": "A person who has returned, seemingly from the dead."
+    },
+    {
+        "word": "Lampoon:",
+        "description": "Publicly criticize by using ridicule, sarcasm, or irony."
+    },
+    {
+        "word": "Pernicious:",
+        "description": "Harmful, especially in a gradual way."
+    },
+    {
+        "word": "Inordinate:",
+        "description": "Unusually large."
+    },
+    {
+        "word": "Vestige:",
+        "description": "A trace of something on the verge of, or already, extinct."
+    },
+    {
+        "word": "Interdict:",
+        "description": "Prohibit or prevent something."
+    },
+    {
+        "word": "Ebullient:",
+        "description": "Cheerful and energetic."
+    },
+    {
+        "word": "Lassitude:",
+        "description": "Sapped for energy. Languidness."
+    },
+    {
+        "word": "Pejorative:",
+        "description": "Expressive contempt or disapproval"
+    },
+    {
+        "word": "Obstreperous:",
+        "description": "Noisy and difficult to control."
+    },
+    {
+        "word": "Liaison:",
+        "description": "Communication between professionals and/or businesses that solidifies a close working relationship."
+    },
+    {
+        "word": "Panoply:",
+        "description": "Complete or impressive collection of things."
+    },
+    {
+        "word": "Aplomb:",
+        "description": "Self-confidence or assurance."
+    },
+    {
+        "word": "Skirl:",
+        "description": "Shrill wailing sound (like subway pulling into station)."
+    },
+    {
+        "word": "Crepuscular:",
+        "description": "Relating to twilight."
+    },
+    {
+        "word": "Threnody:",
+        "description": "A lament."
+    },
+    {
+        "word": "Opine:",
+        "description": "Hold and state as one\u0432\u0402\u2122s opinion."
+    },
+    {
+        "word": "Confabulate:",
+        "description": "Engage in conversation."
+    },
+    {
+        "word": "Preposition:",
+        "description": "The word preceding noun \u0432\u0402\u045athe man on the boat\u0432\u0402\u045c or \u0432\u0402\u045abetween walls\u0432\u0402\u045c"
+    },
+    {
+        "word": "Negated:",
+        "description": "Nullify."
+    },
+    {
+        "word": "Repose:",
+        "description": "A state of rest, peace, tranquility."
+    },
+    {
+        "word": "Ensconced:",
+        "description": "Settle oneself into a secretive, hidden place, safe and comfortable."
+    },
+    {
+        "word": "Sojourn:",
+        "description": "Temporary stay."
+    },
+    {
+        "word": "Attenuated:",
+        "description": "Unnaturally thin."
+    },
+    {
+        "word": "Undulate:",
+        "description": "Move in a wave like motion."
+    },
+    {
+        "word": "Aphasia:",
+        "description": "Inability to speak."
+    },
+    {
+        "word": "Aprowl:",
+        "description": "Stealthy search for something."
+    },
+    {
+        "word": "Idolatry:",
+        "description": "To make an idol of."
+    },
+    {
+        "word": "Lacteal:",
+        "description": "Of milk."
+    },
+    {
+        "word": "Prostrate:",
+        "description": "Lying stretched out on the ground with your face downwards."
+    },
+    {
+        "word": "Declivity:",
+        "description": "Downward slope."
+    },
+    {
+        "word": "Coruscant:",
+        "description": "Glittering; sparkling."
+    },
+    {
+        "word": "Fenestrated:",
+        "description": "Covered in windows."
+    },
+    {
+        "word": "Mastication:",
+        "description": "Chewing."
+    },
+    {
+        "word": "Nuptial:",
+        "description": "Relating to weddings."
+    },
+    {
+        "word": "Connubial:",
+        "description": "Relating to the relationship of a married couple."
+    },
+    {
+        "word": "Prandial:",
+        "description": "Relating to dinner or lunch."
+    },
+    {
+        "word": "Reticent:",
+        "description": "Not readily revealing one\u0432\u0402\u2122s thoughts or feelings."
+    },
+    {
+        "word": "Salience:",
+        "description": "Importance."
+    },
+    {
+        "word": "Inveterate:",
+        "description": "A long established habit/activity."
+    },
+    {
+        "word": "Malefic:",
+        "description": "Causing or capable of causing harm/destruction."
+    },
+    {
+        "word": "Dysphoria:",
+        "description": "Like \u0432\u0402\u045aEuphoric\u0432\u0402\u045c but with a dystopian connotation \u0432\u0402\u201d depression, sorrow, anxiety."
+    },
+    {
+        "word": "Anhedonia:",
+        "description": "Inability to feel pleasure."
+    },
+    {
+        "word": "Didactic:",
+        "description": "Patronizingly intending to teach from a ground of perceived moral superiority."
+    },
+    {
+        "word": "Mordant:",
+        "description": "A critical, caustic quality."
+    },
+    {
+        "word": "Incontinent:",
+        "description": "Lacking self restraint."
+    },
+    {
+        "word": "Instantiate:",
+        "description": "Represent (as an instance of)."
+    },
+    {
+        "word": "Venery:",
+        "description": "Sexual indulgence."
+    },
+    {
+        "word": "Chicanery:",
+        "description": "The use of trickery to achieve a political, financial or legal end."
+    },
+    {
+        "word": "Inguinal:",
+        "description": "of the groin."
+    },
+    {
+        "word": "Mercantile:",
+        "description": "of relating to commerce (merchants)."
+    },
+    {
+        "word": "Stolid:",
+        "description": "Calm, dependable, showing little emotion. (like stoic)."
+    },
+    {
+        "word": "Intoning:",
+        "description": "To say in a monotone sort of way."
+    },
+    {
+        "word": "Somnolent:",
+        "description": "Sleepy; drowsy."
+    },
+    {
+        "word": "Turgid:",
+        "description": "Swollen or bombastic."
+    },
+    {
+        "word": "Obsequious:",
+        "description": "Servile."
+    },
+    {
+        "word": "Confabulated:",
+        "description": "Engage in a convorsation or fabricate memories to make up for memory loss."
+    },
+    {
+        "word": "Trellises:",
+        "description": "A framework of wooden or metal bars used to support fruit trees."
+    }
+]

@@ -8,7 +8,7 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const dfwJSON = await fetch("./src/dfw.json");
+      const dfwJSON = await fetch("./dfw.json");
       const data = await dfwJSON.json();
       const numRandom = Math.floor(Math.random() * data.length);
       const wordRandom = data[numRandom].word.slice(0, -1);
